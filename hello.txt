@@ -1,6 +1,2 @@
-
 hot-fix master
-hot-fix master
-hot-fix master
-hot-fix master
-hot-fix master
+hot-fix test
